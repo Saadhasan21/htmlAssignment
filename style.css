@@ -24,6 +24,7 @@ body{
     display: flex;
     justify-content: space-evenly;
     height: 300px;
+    flex-wrap: wrap;
 
 }
 
