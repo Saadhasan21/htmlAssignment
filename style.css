@@ -6,6 +6,7 @@
 
 body{
     border-style: solid ;
+    background-color:aliceblue;
     height: 500px;
     min-width: 300px;
     max-width: 1600px;    
